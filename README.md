@@ -1,1 +1,1 @@
-# Insert-a-Node-at-the-Tail-of-a-Linked-List
+I first create a new node with the given data. If the list is empty, I return the new node as the head. If not, I start from the head and move through the list until I reach the last node. Then I attach the new node to the end by setting the last node’s next to it. Finally, I return the head of the list.
